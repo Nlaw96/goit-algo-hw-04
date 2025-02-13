@@ -1,0 +1,4 @@
+Alex Korp,2000
+Nikita Borisenko,3200
+Sitarama Raju,1800
+Perkov Ivan,1000
