@@ -3,9 +3,9 @@ def total_salary(path):
         total = 0
         cnt = 0
         with open(path, "r", encoding="utf-8") as file:
-            for num in file:
+            for j in file:
                 try:
-                    p = num.strip().split(",")
+                    p = j.strip().split(",")
                     total += int(p[1])
                     cnt += 1
                 except ValueError:
